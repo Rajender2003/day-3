@@ -1,0 +1,3 @@
+a="btech babu"
+b=sorted(a,reverse=True)
+print(b)
