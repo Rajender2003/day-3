@@ -1,0 +1,6 @@
+a="btech babu is my page"
+b=a.isdigit()
+c=a.isalpha()
+n=a.title()
+r=a.isupper()
+print(b,c,n,r,end=" ")
