@@ -1,0 +1,3 @@
+a="raju is good boy"
+b=" ".join(reversed(a))
+print(b)
